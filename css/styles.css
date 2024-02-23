@@ -41,7 +41,7 @@ input:focus {
   overflow: hidden;
 }
 #register-banner {
-  background: url(/img/IMGCAPA.png);
+  background: url(../img/IMGCAPA.png);
   background-size: cover;
   background-position: center;
   width: 50%;
